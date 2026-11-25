@@ -1,0 +1,1091 @@
+query_id,query,category,label_status,relevant_movie
+Q01,Which movies were directed by Christopher Nolan?,director,verified_from_metadata,The Dark Knight
+Q01,Which movies were directed by Christopher Nolan?,director,verified_from_metadata,Inception
+Q01,Which movies were directed by Christopher Nolan?,director,verified_from_metadata,Interstellar
+Q01,Which movies were directed by Christopher Nolan?,director,verified_from_metadata,The Prestige
+Q01,Which movies were directed by Christopher Nolan?,director,verified_from_metadata,The Dark Knight Rises
+Q01,Which movies were directed by Christopher Nolan?,director,verified_from_metadata,Memento
+Q01,Which movies were directed by Christopher Nolan?,director,verified_from_metadata,Batman Begins
+Q01,Which movies were directed by Christopher Nolan?,director,verified_from_metadata,Dunkirk
+Q02,Which movies were directed by Francis Ford Coppola?,director,verified_from_metadata,The Godfather
+Q02,Which movies were directed by Francis Ford Coppola?,director,verified_from_metadata,The Godfather: Part II
+Q02,Which movies were directed by Francis Ford Coppola?,director,verified_from_metadata,Apocalypse Now
+Q02,Which movies were directed by Francis Ford Coppola?,director,verified_from_metadata,The Conversation
+Q02,Which movies were directed by Francis Ford Coppola?,director,verified_from_metadata,The Godfather: Part III
+Q03,Which movies were directed by Steven Spielberg?,director,verified_from_metadata,Schindler's List
+Q03,Which movies were directed by Steven Spielberg?,director,verified_from_metadata,Saving Private Ryan
+Q03,Which movies were directed by Steven Spielberg?,director,verified_from_metadata,Raiders of the Lost Ark
+Q03,Which movies were directed by Steven Spielberg?,director,verified_from_metadata,Indiana Jones and the Last Crusade
+Q03,Which movies were directed by Steven Spielberg?,director,verified_from_metadata,Catch Me If You Can
+Q03,Which movies were directed by Steven Spielberg?,director,verified_from_metadata,Jurassic Park
+Q03,Which movies were directed by Steven Spielberg?,director,verified_from_metadata,Jaws
+Q03,Which movies were directed by Steven Spielberg?,director,verified_from_metadata,The Color Purple
+Q03,Which movies were directed by Steven Spielberg?,director,verified_from_metadata,E.T. the Extra-Terrestrial
+Q03,Which movies were directed by Steven Spielberg?,director,verified_from_metadata,Empire of the Sun
+Q03,Which movies were directed by Steven Spielberg?,director,verified_from_metadata,Bridge of Spies
+Q03,Which movies were directed by Steven Spielberg?,director,verified_from_metadata,Minority Report
+Q03,Which movies were directed by Steven Spielberg?,director,verified_from_metadata,Close Encounters of the Third Kind
+Q04,Which movies were directed by Martin Scorsese?,director,verified_from_metadata,Goodfellas
+Q04,Which movies were directed by Martin Scorsese?,director,verified_from_metadata,The Departed
+Q04,Which movies were directed by Martin Scorsese?,director,verified_from_metadata,Taxi Driver
+Q04,Which movies were directed by Martin Scorsese?,director,verified_from_metadata,Shutter Island
+Q04,Which movies were directed by Martin Scorsese?,director,verified_from_metadata,The Wolf of Wall Street
+Q04,Which movies were directed by Martin Scorsese?,director,verified_from_metadata,Casino
+Q04,Which movies were directed by Martin Scorsese?,director,verified_from_metadata,Raging Bull
+Q04,Which movies were directed by Martin Scorsese?,director,verified_from_metadata,The Irishman
+Q04,Which movies were directed by Martin Scorsese?,director,verified_from_metadata,The King of Comedy
+Q04,Which movies were directed by Martin Scorsese?,director,verified_from_metadata,After Hours
+Q05,Which movies were directed by Quentin Tarantino?,director,verified_from_metadata,Pulp Fiction
+Q05,Which movies were directed by Quentin Tarantino?,director,verified_from_metadata,Django Unchained
+Q05,Which movies were directed by Quentin Tarantino?,director,verified_from_metadata,Inglourious Basterds
+Q05,Which movies were directed by Quentin Tarantino?,director,verified_from_metadata,Reservoir Dogs
+Q05,Which movies were directed by Quentin Tarantino?,director,verified_from_metadata,Kill Bill: Vol. 1
+Q05,Which movies were directed by Quentin Tarantino?,director,verified_from_metadata,Kill Bill: Vol. 2
+Q05,Which movies were directed by Quentin Tarantino?,director,verified_from_metadata,The Hateful Eight
+Q05,Which movies were directed by Quentin Tarantino?,director,verified_from_metadata,Once Upon a Time... in Hollywood
+Q06,Which movies were directed by Hayao Miyazaki?,director,verified_from_metadata,Sen to Chihiro no kamikakushi
+Q06,Which movies were directed by Hayao Miyazaki?,director,verified_from_metadata,Mononoke-hime
+Q06,Which movies were directed by Hayao Miyazaki?,director,verified_from_metadata,Hauru no ugoku shiro
+Q06,Which movies were directed by Hayao Miyazaki?,director,verified_from_metadata,Tonari no Totoro
+Q06,Which movies were directed by Hayao Miyazaki?,director,verified_from_metadata,Kaze no tani no Naushika
+Q06,Which movies were directed by Hayao Miyazaki?,director,verified_from_metadata,Tenkû no shiro Rapyuta
+Q06,Which movies were directed by Hayao Miyazaki?,director,verified_from_metadata,Kaze tachinu
+Q06,Which movies were directed by Hayao Miyazaki?,director,verified_from_metadata,Majo no takkyûbin
+Q06,Which movies were directed by Hayao Miyazaki?,director,verified_from_metadata,Gake no ue no Ponyo
+Q06,Which movies were directed by Hayao Miyazaki?,director,verified_from_metadata,Kurenai no buta
+Q06,Which movies were directed by Hayao Miyazaki?,director,verified_from_metadata,Rupan sansei: Kariosutoro no shiro
+Q07,Which movies feature Al Pacino?,actor,verified_from_metadata,The Godfather
+Q07,Which movies feature Al Pacino?,actor,verified_from_metadata,The Godfather: Part II
+Q07,Which movies feature Al Pacino?,actor,verified_from_metadata,Scarface
+Q07,Which movies feature Al Pacino?,actor,verified_from_metadata,Heat
+Q07,Which movies feature Al Pacino?,actor,verified_from_metadata,Scent of a Woman
+Q07,Which movies feature Al Pacino?,actor,verified_from_metadata,Dog Day Afternoon
+Q07,Which movies feature Al Pacino?,actor,verified_from_metadata,The Irishman
+Q07,Which movies feature Al Pacino?,actor,verified_from_metadata,Carlito's Way
+Q07,Which movies feature Al Pacino?,actor,verified_from_metadata,The Insider
+Q07,Which movies feature Al Pacino?,actor,verified_from_metadata,Donnie Brasco
+Q07,Which movies feature Al Pacino?,actor,verified_from_metadata,Glengarry Glen Ross
+Q07,Which movies feature Al Pacino?,actor,verified_from_metadata,Serpico
+Q07,Which movies feature Al Pacino?,actor,verified_from_metadata,The Godfather: Part III
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,The Godfather: Part II
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,Goodfellas
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,Joker
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,Once Upon a Time in America
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,Taxi Driver
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,Heat
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,Casino
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,Raging Bull
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,The Deer Hunter
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,The Irishman
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,The Untouchables
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,Brazil
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,A Bronx Tale
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,Awakenings
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,The King of Comedy
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,Silver Linings Playbook
+Q08,Which movies feature Robert De Niro?,actor,verified_from_metadata,Sleepers
+Q09,Which movies feature Leonardo DiCaprio?,actor,verified_from_metadata,Inception
+Q09,Which movies feature Leonardo DiCaprio?,actor,verified_from_metadata,The Departed
+Q09,Which movies feature Leonardo DiCaprio?,actor,verified_from_metadata,Django Unchained
+Q09,Which movies feature Leonardo DiCaprio?,actor,verified_from_metadata,Shutter Island
+Q09,Which movies feature Leonardo DiCaprio?,actor,verified_from_metadata,The Wolf of Wall Street
+Q09,Which movies feature Leonardo DiCaprio?,actor,verified_from_metadata,Catch Me If You Can
+Q09,Which movies feature Leonardo DiCaprio?,actor,verified_from_metadata,The Revenant
+Q09,Which movies feature Leonardo DiCaprio?,actor,verified_from_metadata,Blood Diamond
+Q09,Which movies feature Leonardo DiCaprio?,actor,verified_from_metadata,Titanic
+Q09,Which movies feature Leonardo DiCaprio?,actor,verified_from_metadata,What's Eating Gilbert Grape
+Q09,Which movies feature Leonardo DiCaprio?,actor,verified_from_metadata,Once Upon a Time... in Hollywood
+Q10,Which movies feature Christian Bale?,actor,verified_from_metadata,The Dark Knight
+Q10,Which movies feature Christian Bale?,actor,verified_from_metadata,The Prestige
+Q10,Which movies feature Christian Bale?,actor,verified_from_metadata,The Dark Knight Rises
+Q10,Which movies feature Christian Bale?,actor,verified_from_metadata,Batman Begins
+Q10,Which movies feature Christian Bale?,actor,verified_from_metadata,Ford v Ferrari
+Q10,Which movies feature Christian Bale?,actor,verified_from_metadata,The Big Short
+Q10,Which movies feature Christian Bale?,actor,verified_from_metadata,The Fighter
+Q10,Which movies feature Christian Bale?,actor,verified_from_metadata,3:10 to Yuma
+Q10,Which movies feature Christian Bale?,actor,verified_from_metadata,The Machinist
+Q10,Which movies feature Christian Bale?,actor,verified_from_metadata,Empire of the Sun
+Q10,Which movies feature Christian Bale?,actor,verified_from_metadata,American Psycho
+Q11,Which movies feature Tom Hanks?,actor,verified_from_metadata,Forrest Gump
+Q11,Which movies feature Tom Hanks?,actor,verified_from_metadata,Saving Private Ryan
+Q11,Which movies feature Tom Hanks?,actor,verified_from_metadata,The Green Mile
+Q11,Which movies feature Tom Hanks?,actor,verified_from_metadata,Toy Story
+Q11,Which movies feature Tom Hanks?,actor,verified_from_metadata,Toy Story 3
+Q11,Which movies feature Tom Hanks?,actor,verified_from_metadata,Catch Me If You Can
+Q11,Which movies feature Tom Hanks?,actor,verified_from_metadata,Toy Story 2
+Q11,Which movies feature Tom Hanks?,actor,verified_from_metadata,Toy Story 4
+Q11,Which movies feature Tom Hanks?,actor,verified_from_metadata,Captain Phillips
+Q11,Which movies feature Tom Hanks?,actor,verified_from_metadata,Cast Away
+Q11,Which movies feature Tom Hanks?,actor,verified_from_metadata,Road to Perdition
+Q11,Which movies feature Tom Hanks?,actor,verified_from_metadata,Philadelphia
+Q11,Which movies feature Tom Hanks?,actor,verified_from_metadata,Bridge of Spies
+Q11,Which movies feature Tom Hanks?,actor,verified_from_metadata,Apollo 13
+Q12,Which movies feature Brad Pitt?,actor,verified_from_metadata,Fight Club
+Q12,Which movies feature Brad Pitt?,actor,verified_from_metadata,Se7en
+Q12,Which movies feature Brad Pitt?,actor,verified_from_metadata,Inglourious Basterds
+Q12,Which movies feature Brad Pitt?,actor,verified_from_metadata,Snatch
+Q12,Which movies feature Brad Pitt?,actor,verified_from_metadata,12 Years a Slave
+Q12,Which movies feature Brad Pitt?,actor,verified_from_metadata,Twelve Monkeys
+Q12,Which movies feature Brad Pitt?,actor,verified_from_metadata,The Big Short
+Q12,Which movies feature Brad Pitt?,actor,verified_from_metadata,The Curious Case of Benjamin Button
+Q12,Which movies feature Brad Pitt?,actor,verified_from_metadata,Ocean's Eleven
+Q12,Which movies feature Brad Pitt?,actor,verified_from_metadata,Once Upon a Time... in Hollywood
+Q12,Which movies feature Brad Pitt?,actor,verified_from_metadata,Moneyball
+Q12,Which movies feature Brad Pitt?,actor,verified_from_metadata,Sleepers
+Q13,Find movies classified as War.,genre,verified_from_metadata,Saving Private Ryan
+Q13,Find movies classified as War.,genre,verified_from_metadata,Hotaru no haka
+Q13,Find movies classified as War.,genre,verified_from_metadata,Casablanca
+Q13,Find movies classified as War.,genre,verified_from_metadata,Apocalypse Now
+Q13,Find movies classified as War.,genre,verified_from_metadata,Paths of Glory
+Q13,Find movies classified as War.,genre,verified_from_metadata,The Great Dictator
+Q13,Find movies classified as War.,genre,verified_from_metadata,1917
+Q13,Find movies classified as War.,genre,verified_from_metadata,Incendies
+Q13,Find movies classified as War.,genre,verified_from_metadata,Inglourious Basterds
+Q13,Find movies classified as War.,genre,verified_from_metadata,Full Metal Jacket
+Q13,Find movies classified as War.,genre,verified_from_metadata,Idi i smotri
+Q13,Find movies classified as War.,genre,verified_from_metadata,Uri: The Surgical Strike
+Q13,Find movies classified as War.,genre,verified_from_metadata,Mandariinid
+Q13,Find movies classified as War.,genre,verified_from_metadata,Pan's Labyrinth
+Q13,Find movies classified as War.,genre,verified_from_metadata,Ran
+Q13,Find movies classified as War.,genre,verified_from_metadata,Judgment at Nuremberg
+Q13,Find movies classified as War.,genre,verified_from_metadata,To Be or Not to Be
+Q13,Find movies classified as War.,genre,verified_from_metadata,Taegukgi hwinalrimyeo
+Q13,Find movies classified as War.,genre,verified_from_metadata,Underground
+Q13,Find movies classified as War.,genre,verified_from_metadata,Platoon
+Q13,Find movies classified as War.,genre,verified_from_metadata,The Deer Hunter
+Q13,Find movies classified as War.,genre,verified_from_metadata,La battaglia di Algeri
+Q13,Find movies classified as War.,genre,verified_from_metadata,Ivanovo detstvo
+Q13,Find movies classified as War.,genre,verified_from_metadata,The Bridge on the River Kwai
+Q13,Find movies classified as War.,genre,verified_from_metadata,La Grande Illusion
+Q13,Find movies classified as War.,genre,verified_from_metadata,Au revoir les enfants
+Q13,Find movies classified as War.,genre,verified_from_metadata,Kagemusha
+Q13,Find movies classified as War.,genre,verified_from_metadata,Doctor Zhivago
+Q13,Find movies classified as War.,genre,verified_from_metadata,Stalag 17
+Q13,Find movies classified as War.,genre,verified_from_metadata,The Best Years of Our Lives
+Q13,Find movies classified as War.,genre,verified_from_metadata,All Quiet on the Western Front
+Q13,Find movies classified as War.,genre,verified_from_metadata,Jojo Rabbit
+Q13,Find movies classified as War.,genre,verified_from_metadata,No Man's Land
+Q13,Find movies classified as War.,genre,verified_from_metadata,Patton
+Q13,Find movies classified as War.,genre,verified_from_metadata,Under sandet
+Q13,Find movies classified as War.,genre,verified_from_metadata,The Boy in the Striped Pyjamas
+Q13,Find movies classified as War.,genre,verified_from_metadata,The Man Who Would Be King
+Q13,Find movies classified as War.,genre,verified_from_metadata,Duck Soup
+Q13,Find movies classified as War.,genre,verified_from_metadata,Beasts of No Nation
+Q13,Find movies classified as War.,genre,verified_from_metadata,Zwartboek
+Q13,Find movies classified as War.,genre,verified_from_metadata,Black Hawk Down
+Q13,Find movies classified as War.,genre,verified_from_metadata,Love and Death
+Q13,Find movies classified as War.,genre,verified_from_metadata,Where Eagles Dare
+Q13,Find movies classified as War.,genre,verified_from_metadata,The Dirty Dozen
+Q13,Find movies classified as War.,genre,verified_from_metadata,Zulu
+Q13,Find movies classified as War.,genre,verified_from_metadata,Enemy at the Gates
+Q13,Find movies classified as War.,genre,verified_from_metadata,The Thin Red Line
+Q13,Find movies classified as War.,genre,verified_from_metadata,Giù la testa
+Q13,Find movies classified as War.,genre,verified_from_metadata,Kelly's Heroes
+Q13,Find movies classified as War.,genre,verified_from_metadata,From Here to Eternity
+Q13,Find movies classified as War.,genre,verified_from_metadata,Lifeboat
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Inception
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,The Matrix
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Interstellar
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,The Prestige
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Terminator 2: Judgment Day
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Back to the Future
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Avengers: Infinity War
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Alien
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Eternal Sunshine of the Spotless Mind
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Aliens
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,A Clockwork Orange
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,2001: A Space Odyssey
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Metropolis
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,V for Vendetta
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Stalker
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Logan
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Mad Max: Fury Road
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Jurassic Park
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,The Thing
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Blade Runner
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Solaris
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,The Martian
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Her
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,The Avengers
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,G.O.R.A.
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Donnie Darko
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Twelve Monkeys
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Akira
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,The Terminator
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Planet of the Apes
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Arrival
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Star Wars: Episode VII - The Force Awakens
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,X-Men: Days of Future Past
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Edge of Tomorrow
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Moon
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,District 9
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Star Trek
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Iron Man
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Children of Men
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Brazil
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,King Kong
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Rogue One
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Captain America: Civil War
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Serenity
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Gattaca
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Back to the Future Part II
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Predator
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,E.T. the Extra-Terrestrial
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,La planète sauvage
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Bride of Frankenstein
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Frankenstein
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Captain America: The Winter Soldier
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Gravity
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Star Trek Into Darkness
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,X: First Class
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Ex Machina
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Abre los ojos
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,The Fifth Element
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Star Trek II: The Wrath of Khan
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Invasion of the Body Snatchers
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,The Day the Earth Stood Still
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,The Invisible Man
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,The Butterfly Effect
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,28 Days Later...
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Dark City
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Mad Max 2
+Q14,Find movies classified as Sci-Fi.,genre,verified_from_metadata,Close Encounters of the Third Kind
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Sen to Chihiro no kamikakushi
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,The Lion King
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Hotaru no haka
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Kimi no na wa.
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Spider-Man: Into the Spider-Verse
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Coco
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,WALL·E
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Mononoke-hime
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Toy Story
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Klaus
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Up
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Toy Story 3
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Hauru no ugoku shiro
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Tonari no Totoro
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Koe no katachi
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Soul
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Ôkami kodomo no Ame to Yuki
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Inside Out
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Song of the Sea
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Mary and Max
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,How to Train Your Dragon
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Finding Nemo
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,"Monsters, Inc."
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni"
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Kaze no tani no Naushika
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Zootopia
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Kaguyahime no monogatari
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Persepolis
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Ratatouille
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,The Incredibles
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Pâfekuto burû
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,The Iron Giant
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Kôkaku Kidôtai
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,The Nightmare Before Christmas
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Aladdin
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Beauty and the Beast
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Akira
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Tenkû no shiro Rapyuta
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Isle of Dogs
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Fantastic Mr. Fox
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Cowboy Bebop: Tengoku no tobira
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Toy Story 2
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Mimi wo sumaseba
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Jûbê ninpûchô
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Kubo and the Two Strings
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Loving Vincent
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Big Hero 6
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Kaze tachinu
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Toy Story 4
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,How to Train Your Dragon 2
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Tôkyô goddofâzâzu
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Les triplettes de Belleville
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Waking Life
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Shrek
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Batman: Mask of the Phantasm
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Majo no takkyûbin
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,La planète sauvage
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Omoide no Mânî
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Wreck-It Ralph
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Le Petit Prince
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,The Lego Movie
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Gake no ue no Ponyo
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Papurika
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Toki o kakeru shôjo
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Tangled
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Coraline
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Vampire Hunter D: Bloodlust
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,"South Park: Bigger, Longer & Uncut"
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Kurenai no buta
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Who Framed Roger Rabbit
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Rupan sansei: Kariosutoro no shiro
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Fantasia
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Incredibles 2
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Moana
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Kari-gurashi no Arietti
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Despicable Me
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,The Secret of Kells
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Mulan
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Omohide poro poro
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,The Little Mermaid
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,Watership Down
+Q15,Find movies classified as Animation.,genre,verified_from_metadata,The Jungle Book
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Psycho
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,The Shining
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Alien
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Tumbbad
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,The Thing
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,What Ever Happened to Baby Jane?
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Das Cabinet des Dr. Caligari
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,The Exorcist
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Rosemary's Baby
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Les diaboliques
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Shaun of the Dead
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Dawn of the Dead
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Night of the Living Dead
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,King Kong
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Freaks
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Nosferatu
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,The Innocents
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Bride of Frankenstein
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Frankenstein
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Get Out
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,What We Do in the Shadows
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Halloween
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Repulsion
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,The Birds
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Peeping Tom
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Les yeux sans visage
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Invasion of the Body Snatchers
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,The Invisible Man
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,La piel que habito
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,Saw
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,28 Days Later...
+Q16,Find movies classified as Horror.,genre,verified_from_metadata,The Others
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Forrest Gump
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,La vita è bella
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Nuovo Cinema Paradiso
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Casablanca
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,City Lights
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Eternal Sunshine of the Spotless Mind
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Amélie
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Good Will Hunting
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Apartment
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Vertigo
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Singin' in the Rain
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,El secreto de sus ojos
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Andaz Apna Apna
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Some Like It Hot
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Smultronstället
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Sherlock Jr.
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Portrait de la jeune fille en feu
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Ah-ga-ssi
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Barfi!
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Lage Raho Munna Bhai
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Before Sunset
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Dil Chahta Hai
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,La leggenda del pianista sull'oceano
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,"Crna macka, beli macor"
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Fa yeung nin wah
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Dilwale Dulhania Le Jayenge
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Before Sunrise
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Trois couleurs: Rouge
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Ba wang bie ji
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Dà hóng denglong gaogao guà
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Red Shoes
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Shop Around the Corner
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Rebecca
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Gone with the Wind
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,It Happened One Night
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Circus
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Sunrise: A Song of Two Humans
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Gully Boy
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Her
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Perks of Being a Wallflower
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Dev.D
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Slumdog Millionaire
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Bin-jip
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Bom Yeoareum Gaeul Gyeoul Geurigo Bom
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Yeopgijeogin geunyeo
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Groundhog Day
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Der Himmel über Berlin
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Annie Hall
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Last Picture Show
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Graduate
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Doctor Zhivago
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Roman Holiday
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Brief Encounter
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Best Years of Our Lives
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Dil Bechara
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Marriage Story
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Call Me by Your Name
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Before Midnight
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Artist
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Amour
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Jab We Met
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Gegen die Wand
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Hable con ella
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,True Romance
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Edward Scissorhands
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Manhattan
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Harold and Maude
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Charade
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Hiroshima mon amour
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Notorious
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Philadelphia Story
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,His Girl Friday
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Adventures of Robin Hood
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Little Women
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Lunchbox
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Vicky Donor
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Moonrise Kingdom
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Once
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Atonement
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Mr. Nobody
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Curious Case of Benjamin Button
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Pride & Prejudice
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Notebook
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Cast Away
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Titanic
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Hana-bi
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Remains of the Day
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,A Bronx Tale
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Days of Heaven
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Jules et Jim
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Bringing Up Baby
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,God's Own Country
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,En man som heter Ove
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Theory of Everything
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Fault in Our Stars
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,La vie d'Adèle
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Broken Circle Breakdown
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Midnight in Paris
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Silver Linings Playbook
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,(500) Days of Summer
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Flipped
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Brokeback Mountain
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Good Bye Lenin!
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Rushmore
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,As Good as It Gets
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Purple Rose of Cairo
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Belle de jour
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Sabrina
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Quiet Man
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The African Queen
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Gilda
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Victoria
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,A Star Is Born
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Hævnen
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,50/50
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Match Point
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Jeux d'enfants
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Un long dimanche de fiançailles
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Sense and Sensibility
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,The Bridges of Madison County
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Trois couleurs: Blanc
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Omohide poro poro
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,When Harry Met Sally...
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,Breakfast at Tiffany's
+Q17,Find movies classified as Romance.,genre,verified_from_metadata,From Here to Eternity
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Se7en
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Seppuku
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Prestige
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Usual Suspects
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Psycho
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Lives of Others
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Oldeuboi
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Memento
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Apocalypse Now
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Tengoku to jigoku
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Witness for the Prosecution
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Rear Window
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Incendies
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,North by Northwest
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Vertigo
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Citizen Kane
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,M - Eine Stadt sucht einen Mörder
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Talvar
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Drishyam
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,El secreto de sus ojos
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Shutter Island
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,L.A. Confidential
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Rashômon
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Contratiempo
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Gone Girl
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Kahaani
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Prisoners
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Salinui chueok
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Sixth Sense
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Trois couleurs: Rouge
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Thing
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Chinatown
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Solaris
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Le samouraï
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Third Man
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Rebecca
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Das Cabinet des Dr. Caligari
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Blade Runner 2049
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Darbareye Elly
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Bourne Ultimatum
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Donnie Darko
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Pâfekuto burû
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Twelve Monkeys
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Sleuth
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Anatomy of a Murder
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,In a Lonely Place
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Rope
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Laura
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Maltese Falcon
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Thin Man
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Moon
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Man from Earth
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Mystic River
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Hable con ella
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Bourne Identity
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Mulholland Dr.
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Trois couleurs: Bleu
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,In the Heat of the Night
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Charade
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,L'avventura
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Big Sleep
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Hateful Eight
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Le passé
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,La migliore offerta
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Girl with the Dragon Tattoo
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Madeo
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Das weiße Band - Eine deutsche Kindergeschichte
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Män som hatar kvinnor
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Atonement
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Hot Fuzz
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Game
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Conversation
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Lady Vanishes
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Wind River
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Get Out
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Zodiac
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Bourne Supremacy
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Abre los ojos
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Primal Fear
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Glengarry Glen Ross
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Spoorloos
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Der Name der Rose
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Blue Velvet
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Birds
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Searching
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,El cuerpo
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Sherlock Holmes
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Inside Man
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Gone Baby Gone
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Illusionist
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Watchmen
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Saw
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Un long dimanche de fiançailles
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The Others
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Minority Report
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Dark City
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Lost Highway
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,Blowup
+Q18,Find movies classified as Mystery.,genre,verified_from_metadata,The 39 Steps
+Q19,Which movies were released in 1994?,year,verified_from_metadata,Pulp Fiction
+Q19,Which movies were released in 1994?,year,verified_from_metadata,Forrest Gump
+Q19,Which movies were released in 1994?,year,verified_from_metadata,Léon
+Q19,Which movies were released in 1994?,year,verified_from_metadata,The Lion King
+Q19,Which movies were released in 1994?,year,verified_from_metadata,Andaz Apna Apna
+Q19,Which movies were released in 1994?,year,verified_from_metadata,Trois couleurs: Rouge
+Q19,Which movies were released in 1994?,year,verified_from_metadata,Chung Hing sam lam
+Q19,Which movies were released in 1994?,year,verified_from_metadata,Once Were Warriors
+Q19,Which movies were released in 1994?,year,verified_from_metadata,Ed Wood
+Q19,Which movies were released in 1994?,year,verified_from_metadata,Il postino
+Q19,Which movies were released in 1994?,year,verified_from_metadata,Clerks
+Q19,Which movies were released in 1994?,year,verified_from_metadata,Trois couleurs: Blanc
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Inception
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Incendies
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Udaan
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Shutter Island
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Toy Story 3
+Q20,Which movies were released in 2010?,year,verified_from_metadata,How to Train Your Dragon
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Tropa de Elite 2: O Inimigo Agora é Outro
+Q20,Which movies were released in 2010?,year,verified_from_metadata,The King's Speech
+Q20,Which movies were released in 2010?,year,verified_from_metadata,My Name Is Khan
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Black Swan
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Kokuhaku
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Ang-ma-reul bo-at-da
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Ajeossi
+Q20,Which movies were released in 2010?,year,verified_from_metadata,The Fighter
+Q20,Which movies were released in 2010?,year,verified_from_metadata,The Social Network
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Harry Potter and the Deathly Hallows: Part 1
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Flipped
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Tangled
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Kari-gurashi no Arietti
+Q20,Which movies were released in 2010?,year,verified_from_metadata,True Grit
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Hævnen
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Despicable Me
+Q20,Which movies were released in 2010?,year,verified_from_metadata,Kick-Ass
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Gisaengchung
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Joker
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Avengers: Endgame
+Q21,Which movies were released in 2019?,year,verified_from_metadata,1917
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Miracle in cell NO.7
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Chhichhore
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Klaus
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Portrait de la jeune fille en feu
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Ford v Ferrari
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Togo
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Gully Boy
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Knives Out
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Marriage Story
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Jojo Rabbit
+Q21,Which movies were released in 2019?,year,verified_from_metadata,The Irishman
+Q21,Which movies were released in 2019?,year,verified_from_metadata,The Gentlemen
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Sound of Metal
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Little Women
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Toy Story 4
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Dark Waters
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Once Upon a Time... in Hollywood
+Q21,Which movies were released in 2019?,year,verified_from_metadata,Just Mercy
+Q21,Which movies were released in 2019?,year,verified_from_metadata,The Peanut Butter Falcon
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Star Wars: Episode V - The Empire Strikes Back
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Nuovo Cinema Paradiso
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Hotaru no haka
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Back to the Future
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Once Upon a Time in America
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Raiders of the Lost Ark
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Shining
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Full Metal Jacket
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Idi i smotri
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Aliens
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Amadeus
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Scarface
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Star Wars: Episode VI - Return of the Jedi
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Das Boot
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Indiana Jones and the Last Crusade
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Dom za vesanje
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Tonari no Totoro
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Die Hard
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Ran
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Raging Bull
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Dead Poets Society
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Stand by Me
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Platoon
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,"Paris, Texas"
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Kaze no tani no Naushika
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Thing
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Pink Floyd: The Wall
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Fitzcarraldo
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Fanny och Alexander
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Blade Runner
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Elephant Man
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Do the Right Thing
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Rain Man
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Akira
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Princess Bride
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Der Himmel über Berlin
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Au revoir les enfants
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Tenkû no shiro Rapyuta
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Terminator
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Gandhi
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Kagemusha
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,My Left Foot: The Story of Christy Brown
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Crimes and Misdemeanors
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Untouchables
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Hannah and Her Sisters
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Brazil
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,This Is Spinal Tap
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,A Christmas Story
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Blues Brothers
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Majo no takkyûbin
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Glory
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Dip huet seung hung
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Back to the Future Part II
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Mississippi Burning
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Predator
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Evil Dead II
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Ferris Bueller's Day Off
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Down by Law
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Goonies
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Color Purple
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Breakfast Club
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Killing Fields
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Ghostbusters
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Right Stuff
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The King of Comedy
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,E.T. the Extra-Terrestrial
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Who Framed Roger Rabbit
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Spoorloos
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Withnail & I
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Last Emperor
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Empire of the Sun
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Der Name der Rose
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Blue Velvet
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Purple Rose of Cairo
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,After Hours
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Zelig
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Verdict
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Star Trek II: The Wrath of Khan
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,First Blood
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Ordinary People
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Airplane!
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,When Harry Met Sally...
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Little Mermaid
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,The Naked Gun: From the Files of Police Squad!
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,"Planes, Trains & Automobiles"
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Lethal Weapon
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Blood Simple
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,On Golden Pond
+Q22,Which movies were released between 1980 and 1989?,year_range,verified_from_metadata,Mad Max 2
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Dark Knight
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Lord of the Rings: The Return of the King
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Lord of the Rings: The Fellowship of the Ring
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Lord of the Rings: The Two Towers
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Cidade de Deus
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Sen to Chihiro no kamikakushi
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Prestige
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Departed
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Pianist
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Gladiator
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,3 Idiots
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Taare Zameen Par
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,WALL·E
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Lives of Others
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Oldeuboi
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Memento
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Babam ve Oglum
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Inglourious Basterds
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Eternal Sunshine of the Spotless Mind
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Amélie
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Snatch
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Requiem for a Dream
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,El secreto de sus ojos
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Up
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Chak De! India
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,There Will Be Blood
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Pan's Labyrinth
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,V for Vendetta
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Rang De Basanti
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Black
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Batman Begins
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,"Swades: We, the People"
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Der Untergang
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Hauru no ugoku shiro
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,A Beautiful Mind
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Hera Pheri
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,A Wednesday
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Gran Torino
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Okuribito
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Hachi: A Dog's Tale
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Mary and Max
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Into the Wild
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,No Country for Old Men
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Lage Raho Munna Bhai
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Million Dollar Baby
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Hotel Rwanda
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Taegukgi hwinalrimyeo
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Before Sunset
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Munna Bhai M.B.B.S.
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Salinui chueok
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Dil Chahta Hai
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Kill Bill: Vol. 1
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Finding Nemo
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Catch Me If You Can
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Amores perros
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,"Monsters, Inc."
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Lagaan: Once Upon a Time in India
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Fa yeung nin wah
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Darbareye Elly
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Dev.D
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Yip Man
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Nefes: Vatan Sagolsun
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Slumdog Millionaire
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Tropa de Elite
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Persepolis
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Pursuit of Happyness
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Blood Diamond
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Bourne Ultimatum
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Bin-jip
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Sin City
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Le scaphandre et le papillon
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,G.O.R.A.
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Ratatouille
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Casino Royale
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Kill Bill: Vol. 2
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Vozvrashchenie
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Bom Yeoareum Gaeul Gyeoul Geurigo Bom
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Cinderella Man
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Kal Ho Naa Ho
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Mou gaan dou
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Pirates of the Caribbean: The Curse of the Black Pearl
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Big Fish
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Incredibles
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Yeopgijeogin geunyeo
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Dogville
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Vizontele
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Donnie Darko
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Dancer in the Dark
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Un prophète
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Moon
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Låt den rätte komma in
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,District 9
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Wrestler
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Jab We Met
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,"4 luni, 3 saptamâni si 2 zile"
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Star Trek
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,In Bruges
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Man from Earth
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Letters from Iwo Jima
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Fall
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Fantastic Mr. Fox
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,C.R.A.Z.Y.
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Les choristes
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Iron Man
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Shaun of the Dead
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Gegen die Wand
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Mystic River
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Harry Potter and the Prisoner of Azkaban
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Ying xiong
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Hable con ella
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,No Man's Land
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Cowboy Bebop: Tengoku no tobira
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Bourne Identity
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Nueve reinas
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Children of Men
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Almost Famous
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Mulholland Dr.
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Madeo
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Chugyeokja
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Das weiße Band - Eine deutsche Kindergeschichte
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Män som hatar kvinnor
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Taken
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Boy in the Striped Pyjamas
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Once
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Auf der anderen Seite
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Atonement
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,American Gangster
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Avatar
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Mr. Nobody
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Apocalypto
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Little Miss Sunshine
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Hot Fuzz
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Curious Case of Benjamin Button
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Veer-Zaara
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Adams æbler
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Pride & Prejudice
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The World's Fastest Indian
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Tôkyô goddofâzâzu
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Serenity
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Walk the Line
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Ondskan
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Notebook
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Diarios de motocicleta
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Lilja 4-ever
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Les triplettes de Belleville
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Gongdong gyeongbi guyeok JSA
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Count of Monte Cristo
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Waking Life
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Remember the Titans
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Wo hu cang long
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Cast Away
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Shrek
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Hangover
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,(500) Days of Summer
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Gake no ue no Ponyo
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Frost/Nixon
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Papurika
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Changeling
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Toki o kakeru shôjo
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Death Note: Desu nôto
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,This Is England
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Efter brylluppet
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Last King of Scotland
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Zodiac
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Lucky Number Slevin
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Joyeux Noël
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Control
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Zwartboek
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Brokeback Mountain
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,3:10 to Yuma
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Crash
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Kung fu
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Bourne Supremacy
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Machinist
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Ray
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Lost in Translation
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Harry Potter and the Goblet of Fire
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Man on Fire
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Coraline
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Last Samurai
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Magdalene Sisters
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Good Bye Lenin!
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,In America
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,I Am Sam
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Adaptation.
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Black Hawk Down
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Road to Perdition
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Das Experiment
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Billy Elliot
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Hedwig and the Angry Inch
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Ocean's Eleven
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Vampire Hunter D: Bloodlust
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,"O Brother, Where Art Thou?"
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Interstate 60: Episodes of the Road
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Training Day
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Celda 211
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Zombieland
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Die Welle
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Sherlock Holmes
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Blind Side
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Visitor
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Seven Pounds
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Eastern Promises
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Stardust
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Secret of Kells
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Inside Man
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Gone Baby Gone
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,La Vie En Rose
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Huo Yuan Jia
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Illusionist
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Dead Man's Shoes
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Harry Potter and the Half-Blood Prince
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,300
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Match Point
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Watchmen
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Lord of War
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Saw
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,"Synecdoche, New York"
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Mysterious Skin
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Jeux d'enfants
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Un long dimanche de fiançailles
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Station Agent
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,21 Grams
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Boksuneun naui geot
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Finding Neverland
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,25th Hour
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Butterfly Effect
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,28 Days Later...
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Batoru rowaiaru
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Royal Tenenbaums
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Y tu mamá también
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Harry Potter and the Sorcerer's Stone
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,The Others
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Blow
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Enemy at the Gates
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,Minority Report
+Q23,Which movies were released between 2000 and 2009?,year_range,verified_from_metadata,American Psycho
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Pulp Fiction
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Goodfellas
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Once Upon a Time in America
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Snatch
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,"Lock, Stock and Two Smoking Barrels"
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Casino
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Some Like It Hot
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Munna Bhai M.B.B.S.
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,"Crna macka, beli macor"
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Dogville
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,True Romance
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,The Untouchables
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,A Bronx Tale
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Batman: Mask of the Phantasm
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Lat sau san taam
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Key Largo
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Scarface: The Shame of the Nation
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Kung fu
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Road to Perdition
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Donnie Brasco
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Malcolm X
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Miller's Crossing
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Serbuan maut
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Eastern Promises
+Q24,Find movies whose synopsis mentions the mafia or mob.,semantic,provisional_requires_review,Lost Highway
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,Interstellar
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,WALL·E
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,Alien
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,Toy Story
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,Aliens
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,Room
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,PK
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,Blade Runner
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,The Martian
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,The Iron Giant
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,Planet of the Apes
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,Arrival
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,Moon
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,Hidden Figures
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,Gattaca
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,The Right Stuff
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,Gravity
+Q25,Find movies whose synopsis mentions space or astronauts.,semantic,provisional_requires_review,Apollo 13
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Schindler's List
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,The Pianist
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,American History X
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Hotaru no haka
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Casablanca
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Raiders of the Lost Ark
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Inglourious Basterds
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Idi i smotri
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Der Untergang
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Indiana Jones and the Last Crusade
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,The Great Escape
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Judgment at Nuremberg
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,To Be or Not to Be
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Hacksaw Ridge
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,The Imitation Game
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Au revoir les enfants
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Stalag 17
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,The Best Years of Our Lives
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,La règle du jeu
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Letters from Iwo Jima
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Patton
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Notorious
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Dunkirk
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Under sandet
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Kaze tachinu
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Adams æbler
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,The Remains of the Day
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Cabaret
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,To Have and Have Not
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Zwartboek
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Empire of the Sun
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Where Eagles Dare
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,The Dirty Dozen
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,The Thin Red Line
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Kelly's Heroes
+Q26,Find movies whose synopsis mentions World War II or Nazis.,semantic,provisional_requires_review,Lifeboat
+Q27,Find movies whose synopsis mentions a serial killer.,semantic,provisional_requires_review,Se7en
+Q27,Find movies whose synopsis mentions a serial killer.,semantic,provisional_requires_review,The Silence of the Lambs
+Q27,Find movies whose synopsis mentions a serial killer.,semantic,provisional_requires_review,Ang-ma-reul bo-at-da
+Q27,Find movies whose synopsis mentions a serial killer.,semantic,provisional_requires_review,Saw
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Oldeuboi
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Miracle in cell NO.7
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,A Clockwork Orange
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Eskiya
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,The Great Escape
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Mad Max: Fury Road
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,In the Name of the Father
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Cool Hand Luke
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Sanjuro
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,White Heat
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,La Grande Illusion
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Tropa de Elite 2: O Inimigo Agora é Outro
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Papillon
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Rio Bravo
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Stalag 17
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Thor: Ragnarok
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Un prophète
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Harry Potter and the Prisoner of Azkaban
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Carlito's Way
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,The Blues Brothers
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,The Manchurian Candidate
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,The Hateful Eight
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,The Count of Monte Cristo
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Down by Law
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Das Experiment
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Where Eagles Dare
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Cape Fear
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Just Mercy
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Celda 211
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,25th Hour
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,The Hurricane
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Escape from Alcatraz
+Q28,Find movies whose synopsis mentions a prison or prisoners.,semantic,provisional_requires_review,Midnight Express
+Q29,Find movies whose synopsis mentions time travel.,semantic,provisional_requires_review,Toki o kakeru shôjo
